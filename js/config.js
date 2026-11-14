@@ -6,14 +6,14 @@
   version:     versão exibida no site.
   fileSize:    tamanho do arquivo (ex.: "171 MB"). Deixe vazio para ocultar.
   fileName:    nome sugerido ao salvar o arquivo.
-
+  
 /*
  * Configuração do site VEXORA
  */
 
 window.VEXORA_CONFIG = {
-    downloadUrl: "./downloads/VEXORA.zip",
+    downloadUrl: "https://github.com/kauacruz7/VEXORA--SITE-/releases/tag/v0.1.0",
     version: "0.1.0",
-    fileSize: "162 MB",
+    fileSize: "163 MB",
     fileName: "VEXORA.zip"
 };
