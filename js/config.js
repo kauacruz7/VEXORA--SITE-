@@ -12,8 +12,9 @@
  */
 
 window.VEXORA_CONFIG = {
-    downloadUrl: "https://github.com/kauacruz7/VEXORA--SITE-/releases/tag/v0.1.0",
+    downloadUrl: "https://github.com/kauacruz7/VEXORA--SITE-/releases/download/v0.1.0/VEXORA.zip",
     version: "0.1.0",
     fileSize: "163 MB",
     fileName: "VEXORA.zip"
 };
+
